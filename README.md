@@ -1,7 +1,4 @@
-# js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
-# Projeto Alura Books
-
+# Projeto Buscar Endereços
 
 Olá, desde já agradeço pela visita. Esse projeto tem como objetivo consumir e tratar dados da API externa <a href="https://viacep.com.br">viaCEP</a> com o objetivo de obter endereços padronizados no preenchimento de um formulário.
 
